@@ -28,5 +28,8 @@
 ## 开发环境
 IDEA + Maven + MySQL + JDK8 + Tomcat8
 
+## 项目实现思路
+详见：项目思路
+
 
 
